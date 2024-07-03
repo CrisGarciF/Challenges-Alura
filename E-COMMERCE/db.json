@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "name": "cristian",
+      "email": "garciamesa@gmail.com",
+      "password": "1234",
+      "id": "bc64659a-785d-4e1a-9d8a-e316c2ca1aef"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Star Wars"
+    },
+    {
+      "id": 2,
+      "name": "Consolas"
+    },
+    {
+      "id": 3,
+      "name": "Diversos"
+    }
+  ],
+  "productos": [
+    {
+      "imageUrl": "https://img.ecartelera.com/noticias/73200/73249-h3.jpg",
+      "name": "Mandalorian",
+      "price": "$100.00",
+      "categoria": "StarWars",
+      "description": "Muñeco de la serie Star wars",
+      "id": "5b6d0fee-ba41-47db-a828-594fcff658a0"
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_992444-MCO46755478175_072021-O.webp",
+      "name": "Figura Luffy ",
+      "price": "$50.000",
+      "categoria": "Diversos",
+      "description": "Figura de luffy One Piece",
+      "id": "79073a9e-bc1a-476a-8338-194b94f71aec"
+    },
+    {
+      "imageUrl": "https://elenanofriki.com/13524-large_default/figura-nendoroid-zelda-10-cm-the-legend-os-zelda-breath-of-the-wild.jpg",
+      "name": "Zelda Fihura",
+      "price": "$40.000",
+      "categoria": "Diversos",
+      "description": "Fijugar de Zelda",
+      "id": "00487e5a-e63a-4f5c-b35e-472c5bb8f054"
+    },
+    {
+      "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/lswss-keyart-digital-1e_33_c1428772.jpeg?region=1%2C0%2C999%2C999",
+      "name": "Star wars Lego",
+      "price": "$80.000",
+      "categoria": "StarWars",
+      "description": "Serie Star wars",
+      "id": "2dee9fb1-7bc7-4bd3-a1f2-bd5e8f3d7726"
+    },
+    {
+      "imageUrl": "https://m.media-amazon.com/images/I/81gfUA+YEKL._AC_SL1500_.jpg",
+      "name": "Star wars Lego Figura ",
+      "price": "$200.000",
+      "categoria": "StarWars",
+      "description": "Serie Star wars",
+      "id": "eb7f3f9d-86e8-4eea-9fff-81aeab199005"
+    },
+    {
+      "imageUrl": "https://tiendalego.com.co/cdn/shop/products/75159_1000x1000.jpg?v=1601391232",
+      "name": "Star Wars Lego Extrella de la Muerte",
+      "price": "$150.00",
+      "categoria": "StarWars",
+      "description": "Serie Star Wars",
+      "id": "3494dc61-050f-4039-95da-3e0898ae8e49"
+    },
+    {
+      "imageUrl": "https://cf.shopee.com.co/file/11d376997181600e103669d3f6b52408",
+      "name": "Dragon Ball Figuras",
+      "price": "$80.000",
+      "categoria": "Diversos",
+      "description": "Serie Dragon Ball",
+      "id": "aebf462a-6a0d-4b32-880e-667ad9e42a5f"
+    },
+    {
+      "imageUrl": "https://down-co.img.susercontent.com/file/e02a42b99d0a7f017371b82d5aaa35e7_tn",
+      "name": "Figuras Naruto",
+      "price": "$90.000",
+      "categoria": "Diversos",
+      "description": "Serie Anime Naruto",
+      "id": "d4ef8897-1717-48ec-b26b-76c9d96128f1"
+    },
+    {
+      "imageUrl": "https://falabella.scene7.com/is/image/FalabellaCO/61897888_1?wid=800&hei=800&qlt=70",
+      "name": "PS5",
+      "price": "$1.500.000",
+      "categoria": "Consolas",
+      "description": "Ps5 ",
+      "id": "96a36c40-d754-4ae1-b5a6-c90f62bf98cf"
+    },
+    {
+      "imageUrl": "https://exitocol.vtexassets.com/arquivos/ids/2458637/consola-nintendo-switch-neon-joycon-nueva-version-2019.jpg?v=637298193778300000",
+      "name": "switch",
+      "price": "$1.000.000",
+      "categoria": "Consolas",
+      "description": "Consola switch",
+      "id": "11001308-9b25-4439-907c-7d5c39e6fff6"
+    }
+  ]
+}
