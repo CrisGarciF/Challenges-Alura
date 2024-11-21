@@ -2,11 +2,11 @@
 
 Creado con:
 
--JS
+- JS
 
--HTML
+- HTML
 
--CSS
+- CSS
 
 # Tienda virtual desarrollada con:
 - HTML
