@@ -9,6 +9,7 @@ Creado con:
 - CSS
 
 # Tienda virtual desarrollada con:
+
 - HTML
 
 - CSS
@@ -17,4 +18,4 @@ Creado con:
 
 - NPM JSON - SERVER
 
--NODE.JS
+- NODE.JS
