@@ -14,9 +14,9 @@ Creado con:
 
 - CSS
 
-- JS
+- JS.
 
-- NPM JSON - SERVER
+- NPM JSON - SERVER.
 
 - NODE.JS.
 
