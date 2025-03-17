@@ -19,6 +19,4 @@ Creado con:
 - NPM JSON - SERVER
 
 - NODE.JS
-
-
 ...
